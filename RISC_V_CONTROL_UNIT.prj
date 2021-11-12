@@ -1,0 +1,3 @@
+vhdl work "m_decoder.vhd"
+vhdl work "a_decoder.vhd"
+vhdl work "RISC_V_CONTROL_UNIT.vhd"
